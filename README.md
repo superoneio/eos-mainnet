@@ -1,0 +1,2 @@
+# mainnet
+EOS Mainnet.
